@@ -9,4 +9,4 @@ def main():
 
     parser.add_argument('--listAll', type="None", help='Lists all existing items in the task list')
 
-    # separate functions 
+    # separate functions for each
